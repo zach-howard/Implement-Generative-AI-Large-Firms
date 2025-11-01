@@ -14,7 +14,7 @@ This repository is useful for:
 - **Students or entry-level technologists** studying applied AI, automation, or business transformation  
 
 ## How to Use This Repository
-1. **Download or view the included PDF file** (`Generative_AI_Implementation_Briefing.pdf`).  
+1. **Download or view the included PDF file** (`Implementation of Generative AI in Large Enterprises.pdf`).  
 2. **Review the briefing** to explore:
    - How major organizations are using Generative AI for everyday operations  
    - The phases of AI implementation (assessment, design, deployment, and training)  
